@@ -1,0 +1,8 @@
+pandas
+matplotlib
+selenium
+requests
+beautifulsoup4
+time
+tqdm
+nltk
